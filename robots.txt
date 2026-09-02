@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exploreexception.github.io/novavital-keto/sitemap.xml
